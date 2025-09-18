@@ -1,8 +1,8 @@
-Juego del Amigue Secreto
+#Juego del Amigue Secreto
 
 Proyecto desarrollado con HTML, CSS y JavaScript como práctica de lógica de programación. Permite ingresar nombres de amigues y realizar un sorteo para elegir un amigue secreto al azar.
 
-Funcionalidades
+#Funcionalidades
 
 Agregar nombres a la lista (sin duplicados ni campos vacíos).
 
@@ -12,7 +12,7 @@ Contador visible de participantes (la lista completa se mantiene en la consola).
 
 Uso de la tecla Enter para agregar nombres más rápido.
 
-Uso
+#Uso
 
 Abre index.html en tu navegador.
 
